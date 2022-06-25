@@ -7,10 +7,13 @@ app.use(cors());
 
 app.use(bodyParser.json());
 
+const PORT = process.env.PORT || 5000
 app.get('/',(req,res)=>{
     res.send("Welcome to Tripify webservice ")
 })
-app.listen(3000);
-console.log("Server listening in port 3000 ");
+app.listen(PORT,()=>{
+    console.log(`Listening on ${ PORT }`);
+});
+
 
 module.exports = app;
