@@ -1,0 +1,1395 @@
+Error: Enter registered contact number! If not registered, please register
+    at C:\Users\User\Desktop\FA4Project\Code-ToTrainee\wanderlust-web-service\src\service\userslogin.js:9:23
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: Enter registered contact number! If not registered, please register
+    at C:\Users\User\Desktop\FA4Project\Code-ToTrainee\wanderlust-web-service\src\service\userslogin.js:9:23
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at runNextTicks (internal/process/task_queues.js:66:3)
+    at processImmediate (internal/timers.js:429:9)
+Error: Enter registered contact number! If not registered, please register
+    at C:\Users\User\Desktop\FA4Project\Code-ToTrainee\wanderlust-web-service\src\service\userslogin.js:9:23
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at runNextTicks (internal/process/task_queues.js:66:3)
+    at processImmediate (internal/timers.js:429:9)
+Error: Enter registered contact number! If not registered, please register
+    at C:\Users\User\Desktop\FA4Project\Code-ToTrainee\wanderlust-web-service\src\service\userslogin.js:9:23
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at runNextTicks (internal/process/task_queues.js:66:3)
+    at processImmediate (internal/timers.js:429:9)
+Error: Enter registered contact number! If not registered, please register
+    at C:\Users\User\Desktop\FA4Project\Code-ToTrainee\wanderlust-web-service\src\service\userslogin.js:9:23
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at runNextTicks (internal/process/task_queues.js:66:3)
+    at processImmediate (internal/timers.js:429:9)
+Error: Enter registered contact number! If not registered, please register
+    at C:\Users\User\Desktop\FA4Project\Code-ToTrainee\wanderlust-web-service\src\service\userslogin.js:9:23
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: Enter registered contact number! If not registered, please register
+    at C:\Users\User\Desktop\FA4Project\Code-ToTrainee\wanderlust-web-service\src\service\userslogin.js:9:23
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: Enter registered contact number! If not registered, please register
+    at C:\Users\User\Desktop\FA4Project\Code-ToTrainee\wanderlust-web-service\src\service\userslogin.js:9:23
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: Enter registered contact number! If not registered, please register
+    at C:\Users\User\Desktop\FA4Project\Code-ToTrainee\wanderlust-web-service\src\service\userslogin.js:9:23
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: Enter registered contact number! If not registered, please register
+    at C:\Users\User\Desktop\FA4Project\Code-ToTrainee\wanderlust-web-service\src\service\userslogin.js:9:23
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: Enter registered contact number! If not registered, please register
+    at C:\Users\User\Desktop\FA4Project\Code-ToTrainee\wanderlust-web-service\src\service\userslogin.js:9:23
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: Enter registered contact number! If not registered, please register
+    at C:\Users\User\Desktop\FA4Project\Code-ToTrainee\wanderlust-web-service\src\service\userslogin.js:9:23
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: Enter registered contact number! If not registered, please register
+    at C:\Users\User\Desktop\FA4Project\Code-ToTrainee\wanderlust-web-service\src\service\userslogin.js:9:23
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: Enter registered contact number! If not registered, please register
+    at C:\Users\User\Desktop\FA4Project\Code-ToTrainee\wanderlust-web-service\src\service\userslogin.js:9:23
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: Enter registered contact number! If not registered, please register
+    at C:\Users\User\Desktop\FA4Project\Code-ToTrainee\wanderlust-web-service\src\service\userslogin.js:9:23
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: Enter registered contact number! If not registered, please register
+    at C:\Users\User\Desktop\FA4Project\Code-ToTrainee\wanderlust-web-service\src\service\userslogin.js:9:23
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: Enter registered contact number! If not registered, please register
+    at C:\Users\User\Desktop\FA4Project\Code-ToTrainee\wanderlust-web-service\src\service\userslogin.js:9:23
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: Enter registered contact number! If not registered, please register
+    at C:\Users\User\Desktop\FA4Project\Code-ToTrainee\wanderlust-web-service\src\service\userslogin.js:9:23
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: Enter registered contact number! If not registered, please register
+    at C:\Users\User\Desktop\FA4Project\Code-ToTrainee\wanderlust-web-service\src\service\userslogin.js:9:23
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: Enter registered contact number! If not registered, please register
+    at C:\Users\User\Desktop\FA4Project\Code-ToTrainee\wanderlust-web-service\src\service\userslogin.js:9:23
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: Enter registered contact number! If not registered, please register
+    at C:\Users\User\Desktop\FA4Project\Code-ToTrainee\wanderlust-web-service\src\service\userslogin.js:9:23
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: Enter registered contact number! If not registered, please register
+    at C:\Users\User\Desktop\FA4Project\Code-ToTrainee\wanderlust-web-service\src\service\userslogin.js:9:23
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: Enter registered contact number! If not registered, please register
+    at C:\Users\User\Desktop\FA4Project\Code-ToTrainee\wanderlust-web-service\src\service\userslogin.js:9:23
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: Enter registered contact number! If not registered, please register
+    at C:\Users\User\Desktop\FA4Project\Code-ToTrainee\wanderlust-web-service\src\service\userslogin.js:9:23
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: Enter registered contact number! If not registered, please register
+    at C:\Users\User\Desktop\FA4Project\Code-ToTrainee\wanderlust-web-service\src\service\userslogin.js:9:23
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: Enter registered contact number! If not registered, please register
+    at C:\Users\User\Desktop\FA4Project\Code-ToTrainee\wanderlust-web-service\src\service\userslogin.js:9:23
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: Enter registered contact number! If not registered, please register
+    at C:\Users\User\Desktop\FA4Project\Code-ToTrainee\wanderlust-web-service\src\service\userslogin.js:9:23
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: Enter registered contact number! If not registered, please register
+    at C:\Users\User\Desktop\FA4Project\Code-ToTrainee\wanderlust-web-service\src\service\userslogin.js:9:23
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: Enter registered contact number! If not registered, please register
+    at C:\Users\User\Desktop\FA4Project\Code-ToTrainee\wanderlust-web-service\src\service\userslogin.js:9:23
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: Enter registered contact number! If not registered, please register
+    at C:\Users\User\Desktop\FA4Project\Code-ToTrainee\wanderlust-web-service\src\service\userslogin.js:9:23
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: Enter registered contact number! If not registered, please register
+    at C:\Users\User\Desktop\FA4Project\Code-ToTrainee\wanderlust-web-service\src\service\userslogin.js:9:23
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: Enter registered contact number! If not registered, please register
+    at C:\Users\User\Desktop\FA4Project\Code-ToTrainee\wanderlust-web-service\src\service\userslogin.js:9:23
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: Enter registered contact number! If not registered, please register
+    at C:\Users\User\Desktop\FA4Project\Code-ToTrainee\wanderlust-web-service\src\service\userslogin.js:9:23
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: Enter registered contact number! If not registered, please register
+    at C:\Users\User\Desktop\FA4Project\Code-ToTrainee\wanderlust-web-service\src\service\userslogin.js:9:23
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: Enter registered contact number! If not registered, please register
+    at C:\Users\User\Desktop\FA4Project\Code-ToTrainee\wanderlust-web-service\src\service\userslogin.js:9:23
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: Enter registered contact number! If not registered, please register
+    at C:\Users\User\Desktop\FA4Project\Code-ToTrainee\wanderlust-web-service\src\service\userslogin.js:9:23
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: Enter registered contact number! If not registered, please register
+    at C:\Users\User\Desktop\FA4Project\Code-ToTrainee\wanderlust-web-service\src\service\userslogin.js:9:23
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: User already exist with this emailid
+    at C:\Users\User\Desktop\FA4Project\Code-ToTrainee\wanderlust-web-service\src\service\userslogin.js:32:17
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+TypeError: userDB.insertOne is not a function
+    at C:\Users\User\Desktop\FA4Project\Code-ToTrainee\wanderlust-web-service\src\model\userslogin.js:31:32
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: User already exist with this emailid
+    at C:\Users\User\Desktop\FA4Project\Code-ToTrainee\wanderlust-web-service\src\service\userslogin.js:32:17
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: User already exist with this emailid
+    at C:\Users\User\Desktop\FA4Project\Code-ToTrainee\wanderlust-web-service\src\service\userslogin.js:32:17
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: Enter registered contact number! If not registered, please register
+    at C:\Users\User\Desktop\FA4Project\Code-ToTrainee\wanderlust-web-service\src\service\userslogin.js:9:23
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: Enter registered contact number! If not registered, please register
+    at C:\Users\User\Desktop\FA4Project\Code-ToTrainee\wanderlust-web-service\src\service\userslogin.js:9:23
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: Enter registered contact number! If not registered, please register
+    at C:\Users\User\Desktop\FA4Project\Code-ToTrainee\wanderlust-web-service\src\service\userslogin.js:9:23
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: Enter registered contact number! If not registered, please register
+    at C:\Users\User\Desktop\FA4Project\Code-ToTrainee\wanderlust-web-service\src\service\userslogin.js:9:23
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: Enter registered contact number! If not registered, please register
+    at C:\Users\User\Desktop\FA4Project\Code-ToTrainee\wanderlust-web-service\src\service\userslogin.js:9:23
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: Enter registered contact number! If not registered, please register
+    at C:\Users\User\Desktop\FA4Project\Code-ToTrainee\wanderlust-web-service\src\service\userslogin.js:9:23
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: Enter registered contact number! If not registered, please register
+    at C:\Users\User\Desktop\FA4Project\Code-ToTrainee\wanderlust-web-service\src\service\userslogin.js:9:23
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: Enter registered contact number! If not registered, please register
+    at C:\Users\User\Desktop\FA4Project\Code-ToTrainee\wanderlust-web-service\src\service\userslogin.js:9:23
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: Enter registered contact number! If not registered, please register
+    at C:\Users\User\Desktop\FA4Project\Code-ToTrainee\wanderlust-web-service\src\service\userslogin.js:9:23
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: Enter registered contact number! If not registered, please register
+    at C:\Users\User\Desktop\FA4Project\Code-ToTrainee\wanderlust-web-service\src\service\userslogin.js:9:23
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: Enter registered contact number! If not registered, please register
+    at C:\Users\User\Desktop\FA4Project\Code-ToTrainee\wanderlust-web-service\src\service\userslogin.js:9:23
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: Enter registered contact number! If not registered, please register
+    at C:\Users\User\Desktop\FA4Project\Code-ToTrainee\wanderlust-web-service\src\service\userslogin.js:9:23
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: Enter registered contact number! If not registered, please register
+    at C:\Users\User\Desktop\FA4Project\Code-ToTrainee\wanderlust-web-service\src\service\userslogin.js:9:23
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: Enter registered contact number! If not registered, please register
+    at C:\Users\User\Desktop\FA4Project\Code-ToTrainee\wanderlust-web-service\src\service\userslogin.js:9:23
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+TypeError: Cannot read property 'contactNo' of null
+    at C:\Users\User\Desktop\FA4Project\Code-ToTrainee\wanderlust-web-service\src\service\userslogin.js:30:48
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+TypeError: Cannot read property 'contactNo' of null
+    at C:\Users\User\Desktop\FA4Project\Code-ToTrainee\wanderlust-web-service\src\service\userslogin.js:30:48
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+TypeError: req.json is not a function
+    at C:\Users\User\Desktop\FA4Project\Code-ToTrainee\wanderlust-web-service\src\routes\userRouter.js:26:17
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: No bookings Found
+    at C:\Users\User\Desktop\FA4Project\Code-ToTrainee\wanderlust-web-service\src\service\userslogin.js:60:20
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: User with this EmailId already exist
+    at C:\Users\User\Desktop\FA4Project\Code-ToTrainee\wanderlust-web-service\src\service\userslogin.js:48:20
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: User with this phoneNo already exist
+    at C:\Users\User\Desktop\FA4Project\Code-ToTrainee\wanderlust-web-service\src\service\userslogin.js:42:27
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: Incorrect password
+    at C:\Users\User\Desktop\FA4Project\Code-ToTrainee\wanderlust-web-service\src\service\userslogin.js:16:31
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: Incorrect password
+    at C:\Users\User\Desktop\FA4Project\Code-ToTrainee\wanderlust-web-service\src\service\userslogin.js:16:31
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: User with this phoneNo already exist
+    at C:\Users\User\Desktop\FA4Project\Code-ToTrainee\wanderlust-web-service\src\service\userslogin.js:45:27
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+ValidationError: User validation failed: bookings.0.bookingId: Cast to Number failed for value "B1001" at path "bookingId", bookings.1.bookingId: Cast to Number failed for value "B1002" at path "bookingId"
+    at new ValidationError (C:\Users\User\Desktop\FA4Project\Code-ToTrainee\wanderlust-web-service\node_modules\mongoose\lib\error\validation.js:31:11)
+    at model.Document.invalidate (C:\Users\User\Desktop\FA4Project\Code-ToTrainee\wanderlust-web-service\node_modules\mongoose\lib\document.js:2563:32)
+    at EmbeddedDocument.invalidate (C:\Users\User\Desktop\FA4Project\Code-ToTrainee\wanderlust-web-service\node_modules\mongoose\lib\types\embedded.js:291:29)
+    at EmbeddedDocument.$set (C:\Users\User\Desktop\FA4Project\Code-ToTrainee\wanderlust-web-service\node_modules\mongoose\lib\document.js:1238:12)
+    at EmbeddedDocument._handleIndex (C:\Users\User\Desktop\FA4Project\Code-ToTrainee\wanderlust-web-service\node_modules\mongoose\lib\document.js:978:14)
+    at EmbeddedDocument.$set (C:\Users\User\Desktop\FA4Project\Code-ToTrainee\wanderlust-web-service\node_modules\mongoose\lib\document.js:919:22)
+    at EmbeddedDocument.Document (C:\Users\User\Desktop\FA4Project\Code-ToTrainee\wanderlust-web-service\node_modules\mongoose\lib\document.js:136:12)
+    at EmbeddedDocument [as constructor] (C:\Users\User\Desktop\FA4Project\Code-ToTrainee\wanderlust-web-service\node_modules\mongoose\lib\types\embedded.js:42:12)
+    at new EmbeddedDocument (C:\Users\User\Desktop\FA4Project\Code-ToTrainee\wanderlust-web-service\node_modules\mongoose\lib\schema\documentarray.js:115:17)
+    at DocumentArrayPath.cast (C:\Users\User\Desktop\FA4Project\Code-ToTrainee\wanderlust-web-service\node_modules\mongoose\lib\schema\documentarray.js:437:22)
+    at DocumentArrayPath.SchemaType.applySetters (C:\Users\User\Desktop\FA4Project\Code-ToTrainee\wanderlust-web-service\node_modules\mongoose\lib\schematype.js:1031:12)
+    at model.$set (C:\Users\User\Desktop\FA4Project\Code-ToTrainee\wanderlust-web-service\node_modules\mongoose\lib\document.js:1202:20)
+    at model._handleIndex (C:\Users\User\Desktop\FA4Project\Code-ToTrainee\wanderlust-web-service\node_modules\mongoose\lib\document.js:978:14)
+    at model.$set (C:\Users\User\Desktop\FA4Project\Code-ToTrainee\wanderlust-web-service\node_modules\mongoose\lib\document.js:919:22)
+    at model.Document (C:\Users\User\Desktop\FA4Project\Code-ToTrainee\wanderlust-web-service\node_modules\mongoose\lib\document.js:136:12)
+    at model.Model (C:\Users\User\Desktop\FA4Project\Code-ToTrainee\wanderlust-web-service\node_modules\mongoose\lib\model.js:105:12)
+ValidationError: User validation failed: bookings.0.bookingId: Cast to Number failed for value "B1001" at path "bookingId", bookings.1.bookingId: Cast to Number failed for value "B1002" at path "bookingId"
+    at new ValidationError (C:\Users\User\Desktop\FA4Project\Code-ToTrainee\wanderlust-web-service\node_modules\mongoose\lib\error\validation.js:31:11)
+    at model.Document.invalidate (C:\Users\User\Desktop\FA4Project\Code-ToTrainee\wanderlust-web-service\node_modules\mongoose\lib\document.js:2563:32)
+    at EmbeddedDocument.invalidate (C:\Users\User\Desktop\FA4Project\Code-ToTrainee\wanderlust-web-service\node_modules\mongoose\lib\types\embedded.js:291:29)
+    at EmbeddedDocument.$set (C:\Users\User\Desktop\FA4Project\Code-ToTrainee\wanderlust-web-service\node_modules\mongoose\lib\document.js:1238:12)
+    at EmbeddedDocument._handleIndex (C:\Users\User\Desktop\FA4Project\Code-ToTrainee\wanderlust-web-service\node_modules\mongoose\lib\document.js:978:14)
+    at EmbeddedDocument.$set (C:\Users\User\Desktop\FA4Project\Code-ToTrainee\wanderlust-web-service\node_modules\mongoose\lib\document.js:919:22)
+    at EmbeddedDocument.Document (C:\Users\User\Desktop\FA4Project\Code-ToTrainee\wanderlust-web-service\node_modules\mongoose\lib\document.js:136:12)
+    at EmbeddedDocument [as constructor] (C:\Users\User\Desktop\FA4Project\Code-ToTrainee\wanderlust-web-service\node_modules\mongoose\lib\types\embedded.js:42:12)
+    at new EmbeddedDocument (C:\Users\User\Desktop\FA4Project\Code-ToTrainee\wanderlust-web-service\node_modules\mongoose\lib\schema\documentarray.js:115:17)
+    at DocumentArrayPath.cast (C:\Users\User\Desktop\FA4Project\Code-ToTrainee\wanderlust-web-service\node_modules\mongoose\lib\schema\documentarray.js:437:22)
+    at DocumentArrayPath.SchemaType.applySetters (C:\Users\User\Desktop\FA4Project\Code-ToTrainee\wanderlust-web-service\node_modules\mongoose\lib\schematype.js:1031:12)
+    at model.$set (C:\Users\User\Desktop\FA4Project\Code-ToTrainee\wanderlust-web-service\node_modules\mongoose\lib\document.js:1202:20)
+    at model._handleIndex (C:\Users\User\Desktop\FA4Project\Code-ToTrainee\wanderlust-web-service\node_modules\mongoose\lib\document.js:978:14)
+    at model.$set (C:\Users\User\Desktop\FA4Project\Code-ToTrainee\wanderlust-web-service\node_modules\mongoose\lib\document.js:919:22)
+    at model.Document (C:\Users\User\Desktop\FA4Project\Code-ToTrainee\wanderlust-web-service\node_modules\mongoose\lib\document.js:136:12)
+    at model.Model (C:\Users\User\Desktop\FA4Project\Code-ToTrainee\wanderlust-web-service\node_modules\mongoose\lib\model.js:105:12)
+ValidationError: User validation failed: bookings.0.bookingId: Cast to Number failed for value "B1001" at path "bookingId", bookings.1.bookingId: Cast to Number failed for value "B1002" at path "bookingId"
+    at new ValidationError (C:\Users\User\Desktop\FA4Project\Code-ToTrainee\wanderlust-web-service\node_modules\mongoose\lib\error\validation.js:31:11)
+    at model.Document.invalidate (C:\Users\User\Desktop\FA4Project\Code-ToTrainee\wanderlust-web-service\node_modules\mongoose\lib\document.js:2563:32)
+    at EmbeddedDocument.invalidate (C:\Users\User\Desktop\FA4Project\Code-ToTrainee\wanderlust-web-service\node_modules\mongoose\lib\types\embedded.js:291:29)
+    at EmbeddedDocument.$set (C:\Users\User\Desktop\FA4Project\Code-ToTrainee\wanderlust-web-service\node_modules\mongoose\lib\document.js:1238:12)
+    at EmbeddedDocument._handleIndex (C:\Users\User\Desktop\FA4Project\Code-ToTrainee\wanderlust-web-service\node_modules\mongoose\lib\document.js:978:14)
+    at EmbeddedDocument.$set (C:\Users\User\Desktop\FA4Project\Code-ToTrainee\wanderlust-web-service\node_modules\mongoose\lib\document.js:919:22)
+    at EmbeddedDocument.Document (C:\Users\User\Desktop\FA4Project\Code-ToTrainee\wanderlust-web-service\node_modules\mongoose\lib\document.js:136:12)
+    at EmbeddedDocument [as constructor] (C:\Users\User\Desktop\FA4Project\Code-ToTrainee\wanderlust-web-service\node_modules\mongoose\lib\types\embedded.js:42:12)
+    at new EmbeddedDocument (C:\Users\User\Desktop\FA4Project\Code-ToTrainee\wanderlust-web-service\node_modules\mongoose\lib\schema\documentarray.js:115:17)
+    at DocumentArrayPath.cast (C:\Users\User\Desktop\FA4Project\Code-ToTrainee\wanderlust-web-service\node_modules\mongoose\lib\schema\documentarray.js:437:22)
+    at DocumentArrayPath.SchemaType.applySetters (C:\Users\User\Desktop\FA4Project\Code-ToTrainee\wanderlust-web-service\node_modules\mongoose\lib\schematype.js:1031:12)
+    at model.$set (C:\Users\User\Desktop\FA4Project\Code-ToTrainee\wanderlust-web-service\node_modules\mongoose\lib\document.js:1202:20)
+    at model._handleIndex (C:\Users\User\Desktop\FA4Project\Code-ToTrainee\wanderlust-web-service\node_modules\mongoose\lib\document.js:978:14)
+    at model.$set (C:\Users\User\Desktop\FA4Project\Code-ToTrainee\wanderlust-web-service\node_modules\mongoose\lib\document.js:919:22)
+    at model.Document (C:\Users\User\Desktop\FA4Project\Code-ToTrainee\wanderlust-web-service\node_modules\mongoose\lib\document.js:136:12)
+    at model.Model (C:\Users\User\Desktop\FA4Project\Code-ToTrainee\wanderlust-web-service\node_modules\mongoose\lib\model.js:105:12)
+ValidationError: User validation failed: bookings.0.bookingId: Cast to Number failed for value "B1001" at path "bookingId", bookings.1.bookingId: Cast to Number failed for value "B1002" at path "bookingId"
+    at new ValidationError (C:\Users\User\Desktop\FA4Project\Code-ToTrainee\wanderlust-web-service\node_modules\mongoose\lib\error\validation.js:31:11)
+    at model.Document.invalidate (C:\Users\User\Desktop\FA4Project\Code-ToTrainee\wanderlust-web-service\node_modules\mongoose\lib\document.js:2563:32)
+    at EmbeddedDocument.invalidate (C:\Users\User\Desktop\FA4Project\Code-ToTrainee\wanderlust-web-service\node_modules\mongoose\lib\types\embedded.js:291:29)
+    at EmbeddedDocument.$set (C:\Users\User\Desktop\FA4Project\Code-ToTrainee\wanderlust-web-service\node_modules\mongoose\lib\document.js:1238:12)
+    at EmbeddedDocument._handleIndex (C:\Users\User\Desktop\FA4Project\Code-ToTrainee\wanderlust-web-service\node_modules\mongoose\lib\document.js:978:14)
+    at EmbeddedDocument.$set (C:\Users\User\Desktop\FA4Project\Code-ToTrainee\wanderlust-web-service\node_modules\mongoose\lib\document.js:919:22)
+    at EmbeddedDocument.Document (C:\Users\User\Desktop\FA4Project\Code-ToTrainee\wanderlust-web-service\node_modules\mongoose\lib\document.js:136:12)
+    at EmbeddedDocument [as constructor] (C:\Users\User\Desktop\FA4Project\Code-ToTrainee\wanderlust-web-service\node_modules\mongoose\lib\types\embedded.js:42:12)
+    at new EmbeddedDocument (C:\Users\User\Desktop\FA4Project\Code-ToTrainee\wanderlust-web-service\node_modules\mongoose\lib\schema\documentarray.js:115:17)
+    at DocumentArrayPath.cast (C:\Users\User\Desktop\FA4Project\Code-ToTrainee\wanderlust-web-service\node_modules\mongoose\lib\schema\documentarray.js:437:22)
+    at DocumentArrayPath.SchemaType.applySetters (C:\Users\User\Desktop\FA4Project\Code-ToTrainee\wanderlust-web-service\node_modules\mongoose\lib\schematype.js:1031:12)
+    at model.$set (C:\Users\User\Desktop\FA4Project\Code-ToTrainee\wanderlust-web-service\node_modules\mongoose\lib\document.js:1202:20)
+    at model._handleIndex (C:\Users\User\Desktop\FA4Project\Code-ToTrainee\wanderlust-web-service\node_modules\mongoose\lib\document.js:978:14)
+    at model.$set (C:\Users\User\Desktop\FA4Project\Code-ToTrainee\wanderlust-web-service\node_modules\mongoose\lib\document.js:919:22)
+    at model.Document (C:\Users\User\Desktop\FA4Project\Code-ToTrainee\wanderlust-web-service\node_modules\mongoose\lib\document.js:136:12)
+    at model.Model (C:\Users\User\Desktop\FA4Project\Code-ToTrainee\wanderlust-web-service\node_modules\mongoose\lib\model.js:105:12)
+Error: No bookings Found
+    at C:\Users\User\Desktop\FA4Project\Code-ToTrainee\wanderlust-web-service\src\service\userslogin.js:63:20
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: No bookings Found
+    at C:\Users\User\Desktop\FA4Project\Code-ToTrainee\wanderlust-web-service\src\service\userslogin.js:63:20
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: No bookings Found
+    at C:\Users\User\Desktop\FA4Project\Code-ToTrainee\wanderlust-web-service\src\service\userslogin.js:63:20
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: No bookings Found
+    at C:\Users\User\Desktop\FA4Project\Code-ToTrainee\wanderlust-web-service\src\service\userslogin.js:63:20
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+ValidationError: User validation failed: bookings.0.bookingId: Cast to Number failed for value "B1001" at path "bookingId", bookings.1.bookingId: Cast to Number failed for value "B1002" at path "bookingId"
+    at new ValidationError (C:\Users\User\Desktop\FA4Project\Code-ToTrainee\wanderlust-web-service\node_modules\mongoose\lib\error\validation.js:31:11)
+    at model.Document.invalidate (C:\Users\User\Desktop\FA4Project\Code-ToTrainee\wanderlust-web-service\node_modules\mongoose\lib\document.js:2563:32)
+    at EmbeddedDocument.invalidate (C:\Users\User\Desktop\FA4Project\Code-ToTrainee\wanderlust-web-service\node_modules\mongoose\lib\types\embedded.js:291:29)
+    at EmbeddedDocument.$set (C:\Users\User\Desktop\FA4Project\Code-ToTrainee\wanderlust-web-service\node_modules\mongoose\lib\document.js:1238:12)
+    at EmbeddedDocument._handleIndex (C:\Users\User\Desktop\FA4Project\Code-ToTrainee\wanderlust-web-service\node_modules\mongoose\lib\document.js:978:14)
+    at EmbeddedDocument.$set (C:\Users\User\Desktop\FA4Project\Code-ToTrainee\wanderlust-web-service\node_modules\mongoose\lib\document.js:919:22)
+    at EmbeddedDocument.Document (C:\Users\User\Desktop\FA4Project\Code-ToTrainee\wanderlust-web-service\node_modules\mongoose\lib\document.js:136:12)
+    at EmbeddedDocument [as constructor] (C:\Users\User\Desktop\FA4Project\Code-ToTrainee\wanderlust-web-service\node_modules\mongoose\lib\types\embedded.js:42:12)
+    at new EmbeddedDocument (C:\Users\User\Desktop\FA4Project\Code-ToTrainee\wanderlust-web-service\node_modules\mongoose\lib\schema\documentarray.js:115:17)
+    at DocumentArrayPath.cast (C:\Users\User\Desktop\FA4Project\Code-ToTrainee\wanderlust-web-service\node_modules\mongoose\lib\schema\documentarray.js:437:22)
+    at DocumentArrayPath.SchemaType.applySetters (C:\Users\User\Desktop\FA4Project\Code-ToTrainee\wanderlust-web-service\node_modules\mongoose\lib\schematype.js:1031:12)
+    at model.$set (C:\Users\User\Desktop\FA4Project\Code-ToTrainee\wanderlust-web-service\node_modules\mongoose\lib\document.js:1202:20)
+    at model._handleIndex (C:\Users\User\Desktop\FA4Project\Code-ToTrainee\wanderlust-web-service\node_modules\mongoose\lib\document.js:978:14)
+    at model.$set (C:\Users\User\Desktop\FA4Project\Code-ToTrainee\wanderlust-web-service\node_modules\mongoose\lib\document.js:919:22)
+    at model.Document (C:\Users\User\Desktop\FA4Project\Code-ToTrainee\wanderlust-web-service\node_modules\mongoose\lib\document.js:136:12)
+    at model.Model (C:\Users\User\Desktop\FA4Project\Code-ToTrainee\wanderlust-web-service\node_modules\mongoose\lib\model.js:105:12)
+ValidationError: User validation failed: bookings.0.bookingId: Cast to Number failed for value "B1001" at path "bookingId", bookings.1.bookingId: Cast to Number failed for value "B1002" at path "bookingId"
+    at new ValidationError (C:\Users\User\Desktop\FA4Project\Code-ToTrainee\wanderlust-web-service\node_modules\mongoose\lib\error\validation.js:31:11)
+    at model.Document.invalidate (C:\Users\User\Desktop\FA4Project\Code-ToTrainee\wanderlust-web-service\node_modules\mongoose\lib\document.js:2563:32)
+    at EmbeddedDocument.invalidate (C:\Users\User\Desktop\FA4Project\Code-ToTrainee\wanderlust-web-service\node_modules\mongoose\lib\types\embedded.js:291:29)
+    at EmbeddedDocument.$set (C:\Users\User\Desktop\FA4Project\Code-ToTrainee\wanderlust-web-service\node_modules\mongoose\lib\document.js:1238:12)
+    at EmbeddedDocument._handleIndex (C:\Users\User\Desktop\FA4Project\Code-ToTrainee\wanderlust-web-service\node_modules\mongoose\lib\document.js:978:14)
+    at EmbeddedDocument.$set (C:\Users\User\Desktop\FA4Project\Code-ToTrainee\wanderlust-web-service\node_modules\mongoose\lib\document.js:919:22)
+    at EmbeddedDocument.Document (C:\Users\User\Desktop\FA4Project\Code-ToTrainee\wanderlust-web-service\node_modules\mongoose\lib\document.js:136:12)
+    at EmbeddedDocument [as constructor] (C:\Users\User\Desktop\FA4Project\Code-ToTrainee\wanderlust-web-service\node_modules\mongoose\lib\types\embedded.js:42:12)
+    at new EmbeddedDocument (C:\Users\User\Desktop\FA4Project\Code-ToTrainee\wanderlust-web-service\node_modules\mongoose\lib\schema\documentarray.js:115:17)
+    at DocumentArrayPath.cast (C:\Users\User\Desktop\FA4Project\Code-ToTrainee\wanderlust-web-service\node_modules\mongoose\lib\schema\documentarray.js:437:22)
+    at DocumentArrayPath.SchemaType.applySetters (C:\Users\User\Desktop\FA4Project\Code-ToTrainee\wanderlust-web-service\node_modules\mongoose\lib\schematype.js:1031:12)
+    at model.$set (C:\Users\User\Desktop\FA4Project\Code-ToTrainee\wanderlust-web-service\node_modules\mongoose\lib\document.js:1202:20)
+    at model._handleIndex (C:\Users\User\Desktop\FA4Project\Code-ToTrainee\wanderlust-web-service\node_modules\mongoose\lib\document.js:978:14)
+    at model.$set (C:\Users\User\Desktop\FA4Project\Code-ToTrainee\wanderlust-web-service\node_modules\mongoose\lib\document.js:919:22)
+    at model.Document (C:\Users\User\Desktop\FA4Project\Code-ToTrainee\wanderlust-web-service\node_modules\mongoose\lib\document.js:136:12)
+    at model.Model (C:\Users\User\Desktop\FA4Project\Code-ToTrainee\wanderlust-web-service\node_modules\mongoose\lib\model.js:105:12)
+ValidationError: User validation failed: bookings.0.bookingId: Cast to Number failed for value "B1001" at path "bookingId", bookings.1.bookingId: Cast to Number failed for value "B1002" at path "bookingId"
+    at new ValidationError (C:\Users\User\Desktop\FA4Project\Code-ToTrainee\wanderlust-web-service\node_modules\mongoose\lib\error\validation.js:31:11)
+    at model.Document.invalidate (C:\Users\User\Desktop\FA4Project\Code-ToTrainee\wanderlust-web-service\node_modules\mongoose\lib\document.js:2563:32)
+    at EmbeddedDocument.invalidate (C:\Users\User\Desktop\FA4Project\Code-ToTrainee\wanderlust-web-service\node_modules\mongoose\lib\types\embedded.js:291:29)
+    at EmbeddedDocument.$set (C:\Users\User\Desktop\FA4Project\Code-ToTrainee\wanderlust-web-service\node_modules\mongoose\lib\document.js:1238:12)
+    at EmbeddedDocument._handleIndex (C:\Users\User\Desktop\FA4Project\Code-ToTrainee\wanderlust-web-service\node_modules\mongoose\lib\document.js:978:14)
+    at EmbeddedDocument.$set (C:\Users\User\Desktop\FA4Project\Code-ToTrainee\wanderlust-web-service\node_modules\mongoose\lib\document.js:919:22)
+    at EmbeddedDocument.Document (C:\Users\User\Desktop\FA4Project\Code-ToTrainee\wanderlust-web-service\node_modules\mongoose\lib\document.js:136:12)
+    at EmbeddedDocument [as constructor] (C:\Users\User\Desktop\FA4Project\Code-ToTrainee\wanderlust-web-service\node_modules\mongoose\lib\types\embedded.js:42:12)
+    at new EmbeddedDocument (C:\Users\User\Desktop\FA4Project\Code-ToTrainee\wanderlust-web-service\node_modules\mongoose\lib\schema\documentarray.js:115:17)
+    at DocumentArrayPath.cast (C:\Users\User\Desktop\FA4Project\Code-ToTrainee\wanderlust-web-service\node_modules\mongoose\lib\schema\documentarray.js:437:22)
+    at DocumentArrayPath.SchemaType.applySetters (C:\Users\User\Desktop\FA4Project\Code-ToTrainee\wanderlust-web-service\node_modules\mongoose\lib\schematype.js:1031:12)
+    at model.$set (C:\Users\User\Desktop\FA4Project\Code-ToTrainee\wanderlust-web-service\node_modules\mongoose\lib\document.js:1202:20)
+    at model._handleIndex (C:\Users\User\Desktop\FA4Project\Code-ToTrainee\wanderlust-web-service\node_modules\mongoose\lib\document.js:978:14)
+    at model.$set (C:\Users\User\Desktop\FA4Project\Code-ToTrainee\wanderlust-web-service\node_modules\mongoose\lib\document.js:919:22)
+    at model.Document (C:\Users\User\Desktop\FA4Project\Code-ToTrainee\wanderlust-web-service\node_modules\mongoose\lib\document.js:136:12)
+    at model.Model (C:\Users\User\Desktop\FA4Project\Code-ToTrainee\wanderlust-web-service\node_modules\mongoose\lib\model.js:105:12)
+TypeError [ERR_INVALID_ARG_TYPE]: The first argument must be of type string or an instance of Buffer, ArrayBuffer, or Array or an Array-like Object. Received function model
+    at Function.from (buffer.js:313:9)
+    at ServerResponse.send (C:\Users\User\Desktop\FA4Project\Code-ToTrainee\wanderlust-web-service\node_modules\express\lib\response.js:189:22)
+    at C:\Users\User\Desktop\FA4Project\Code-ToTrainee\wanderlust-web-service\src\routes\userRouter.js:9:13
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+TypeError [ERR_INVALID_ARG_TYPE]: The first argument must be of type string or an instance of Buffer, ArrayBuffer, or Array or an Array-like Object. Received function model
+    at Function.from (buffer.js:313:9)
+    at ServerResponse.send (C:\Users\User\Desktop\FA4Project\Code-ToTrainee\wanderlust-web-service\node_modules\express\lib\response.js:189:22)
+    at C:\Users\User\Desktop\FA4Project\Code-ToTrainee\wanderlust-web-service\src\routes\userRouter.js:9:13
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+TypeError [ERR_INVALID_ARG_TYPE]: The first argument must be of type string or an instance of Buffer, ArrayBuffer, or Array or an Array-like Object. Received function model
+    at Function.from (buffer.js:313:9)
+    at ServerResponse.send (C:\Users\User\Desktop\FA4Project\Code-ToTrainee\wanderlust-web-service\node_modules\express\lib\response.js:189:22)
+    at C:\Users\User\Desktop\FA4Project\Code-ToTrainee\wanderlust-web-service\src\routes\userRouter.js:9:13
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+TypeError [ERR_INVALID_ARG_TYPE]: The first argument must be of type string or an instance of Buffer, ArrayBuffer, or Array or an Array-like Object. Received function model
+    at Function.from (buffer.js:313:9)
+    at ServerResponse.send (C:\Users\User\Desktop\FA4Project\Code-ToTrainee\wanderlust-web-service\node_modules\express\lib\response.js:189:22)
+    at C:\Users\User\Desktop\FA4Project\Code-ToTrainee\wanderlust-web-service\src\routes\userRouter.js:9:13
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+TypeError [ERR_INVALID_ARG_TYPE]: The first argument must be of type string or an instance of Buffer, ArrayBuffer, or Array or an Array-like Object. Received function model
+    at Function.from (buffer.js:313:9)
+    at ServerResponse.send (C:\Users\User\Desktop\FA4Project\Code-ToTrainee\wanderlust-web-service\node_modules\express\lib\response.js:189:22)
+    at C:\Users\User\Desktop\FA4Project\Code-ToTrainee\wanderlust-web-service\src\routes\userRouter.js:9:13
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+TypeError [ERR_INVALID_ARG_TYPE]: The first argument must be of type string or an instance of Buffer, ArrayBuffer, or Array or an Array-like Object. Received function model
+    at Function.from (buffer.js:313:9)
+    at ServerResponse.send (C:\Users\User\Desktop\FA4Project\Code-ToTrainee\wanderlust-web-service\node_modules\express\lib\response.js:189:22)
+    at C:\Users\User\Desktop\FA4Project\Code-ToTrainee\wanderlust-web-service\src\routes\userRouter.js:9:13
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+TypeError [ERR_INVALID_ARG_TYPE]: The first argument must be of type string or an instance of Buffer, ArrayBuffer, or Array or an Array-like Object. Received function model
+    at Function.from (buffer.js:313:9)
+    at ServerResponse.send (C:\Users\User\Desktop\FA4Project\Code-ToTrainee\wanderlust-web-service\node_modules\express\lib\response.js:189:22)
+    at C:\Users\User\Desktop\FA4Project\Code-ToTrainee\wanderlust-web-service\src\routes\userRouter.js:9:13
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+TypeError [ERR_INVALID_ARG_TYPE]: The first argument must be of type string or an instance of Buffer, ArrayBuffer, or Array or an Array-like Object. Received function model
+    at Function.from (buffer.js:313:9)
+    at ServerResponse.send (C:\Users\User\Desktop\FA4Project\Code-ToTrainee\wanderlust-web-service\node_modules\express\lib\response.js:189:22)
+    at C:\Users\User\Desktop\FA4Project\Code-ToTrainee\wanderlust-web-service\src\routes\userRouter.js:9:13
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+TypeError [ERR_INVALID_ARG_TYPE]: The first argument must be of type string or an instance of Buffer, ArrayBuffer, or Array or an Array-like Object. Received function model
+    at Function.from (buffer.js:313:9)
+    at ServerResponse.send (C:\Users\User\Desktop\FA4Project\Code-ToTrainee\wanderlust-web-service\node_modules\express\lib\response.js:189:22)
+    at C:\Users\User\Desktop\FA4Project\Code-ToTrainee\wanderlust-web-service\src\routes\userRouter.js:9:13
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+TypeError [ERR_INVALID_ARG_TYPE]: The first argument must be of type string or an instance of Buffer, ArrayBuffer, or Array or an Array-like Object. Received function model
+    at Function.from (buffer.js:313:9)
+    at ServerResponse.send (C:\Users\User\Desktop\FA4Project\Code-ToTrainee\wanderlust-web-service\node_modules\express\lib\response.js:189:22)
+    at C:\Users\User\Desktop\FA4Project\Code-ToTrainee\wanderlust-web-service\src\routes\userRouter.js:9:13
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+TypeError [ERR_INVALID_ARG_TYPE]: The first argument must be of type string or an instance of Buffer, ArrayBuffer, or Array or an Array-like Object. Received function model
+    at Function.from (buffer.js:313:9)
+    at ServerResponse.send (C:\Users\User\Desktop\FA4Project\Code-ToTrainee\wanderlust-web-service\node_modules\express\lib\response.js:189:22)
+    at C:\Users\User\Desktop\FA4Project\Code-ToTrainee\wanderlust-web-service\src\routes\userRouter.js:9:13
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+TypeError [ERR_INVALID_ARG_TYPE]: The first argument must be of type string or an instance of Buffer, ArrayBuffer, or Array or an Array-like Object. Received function model
+    at Function.from (buffer.js:313:9)
+    at ServerResponse.send (C:\Users\User\Desktop\FA4Project\Code-ToTrainee\wanderlust-web-service\node_modules\express\lib\response.js:189:22)
+    at C:\Users\User\Desktop\FA4Project\Code-ToTrainee\wanderlust-web-service\src\routes\userRouter.js:9:13
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+TypeError [ERR_INVALID_ARG_TYPE]: The first argument must be of type string or an instance of Buffer, ArrayBuffer, or Array or an Array-like Object. Received function model
+    at Function.from (buffer.js:313:9)
+    at ServerResponse.send (C:\Users\User\Desktop\FA4Project\Code-ToTrainee\wanderlust-web-service\node_modules\express\lib\response.js:189:22)
+    at C:\Users\User\Desktop\FA4Project\Code-ToTrainee\wanderlust-web-service\src\routes\userRouter.js:9:13
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+TypeError [ERR_INVALID_ARG_TYPE]: The first argument must be of type string or an instance of Buffer, ArrayBuffer, or Array or an Array-like Object. Received function model
+    at Function.from (buffer.js:313:9)
+    at ServerResponse.send (C:\Users\User\Desktop\FA4Project\Code-ToTrainee\wanderlust-web-service\node_modules\express\lib\response.js:189:22)
+    at C:\Users\User\Desktop\FA4Project\Code-ToTrainee\wanderlust-web-service\src\routes\userRouter.js:9:13
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+TypeError [ERR_INVALID_ARG_TYPE]: The first argument must be of type string or an instance of Buffer, ArrayBuffer, or Array or an Array-like Object. Received function model
+    at Function.from (buffer.js:313:9)
+    at ServerResponse.send (C:\Users\User\Desktop\FA4Project\Code-ToTrainee\wanderlust-web-service\node_modules\express\lib\response.js:189:22)
+    at C:\Users\User\Desktop\FA4Project\Code-ToTrainee\wanderlust-web-service\src\routes\userRouter.js:9:13
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+TypeError [ERR_INVALID_ARG_TYPE]: The first argument must be of type string or an instance of Buffer, ArrayBuffer, or Array or an Array-like Object. Received function model
+    at Function.from (buffer.js:313:9)
+    at ServerResponse.send (C:\Users\User\Desktop\FA4Project\Code-ToTrainee\wanderlust-web-service\node_modules\express\lib\response.js:189:22)
+    at C:\Users\User\Desktop\FA4Project\Code-ToTrainee\wanderlust-web-service\src\routes\userRouter.js:9:13
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+TypeError [ERR_INVALID_ARG_TYPE]: The first argument must be of type string or an instance of Buffer, ArrayBuffer, or Array or an Array-like Object. Received function model
+    at Function.from (buffer.js:313:9)
+    at ServerResponse.send (C:\Users\User\Desktop\FA4Project\Code-ToTrainee\wanderlust-web-service\node_modules\express\lib\response.js:189:22)
+    at C:\Users\User\Desktop\FA4Project\Code-ToTrainee\wanderlust-web-service\src\routes\userRouter.js:9:13
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+TypeError [ERR_INVALID_ARG_TYPE]: The first argument must be of type string or an instance of Buffer, ArrayBuffer, or Array or an Array-like Object. Received function model
+    at Function.from (buffer.js:313:9)
+    at ServerResponse.send (C:\Users\User\Desktop\FA4Project\Code-ToTrainee\wanderlust-web-service\node_modules\express\lib\response.js:189:22)
+    at C:\Users\User\Desktop\FA4Project\Code-ToTrainee\wanderlust-web-service\src\routes\userRouter.js:9:13
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+TypeError [ERR_INVALID_ARG_TYPE]: The first argument must be of type string or an instance of Buffer, ArrayBuffer, or Array or an Array-like Object. Received function model
+    at Function.from (buffer.js:313:9)
+    at ServerResponse.send (C:\Users\User\Desktop\FA4Project\Code-ToTrainee\wanderlust-web-service\node_modules\express\lib\response.js:189:22)
+    at C:\Users\User\Desktop\FA4Project\Code-ToTrainee\wanderlust-web-service\src\routes\userRouter.js:9:13
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+TypeError [ERR_INVALID_ARG_TYPE]: The first argument must be of type string or an instance of Buffer, ArrayBuffer, or Array or an Array-like Object. Received function model
+    at Function.from (buffer.js:313:9)
+    at ServerResponse.send (C:\Users\User\Desktop\FA4Project\Code-ToTrainee\wanderlust-web-service\node_modules\express\lib\response.js:189:22)
+    at C:\Users\User\Desktop\FA4Project\Code-ToTrainee\wanderlust-web-service\src\routes\userRouter.js:9:13
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+TypeError [ERR_INVALID_ARG_TYPE]: The first argument must be of type string or an instance of Buffer, ArrayBuffer, or Array or an Array-like Object. Received function model
+    at Function.from (buffer.js:313:9)
+    at ServerResponse.send (C:\Users\User\Desktop\FA4Project\Code-ToTrainee\wanderlust-web-service\node_modules\express\lib\response.js:189:22)
+    at C:\Users\User\Desktop\FA4Project\Code-ToTrainee\wanderlust-web-service\src\routes\userRouter.js:9:13
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+TypeError [ERR_INVALID_ARG_TYPE]: The first argument must be of type string or an instance of Buffer, ArrayBuffer, or Array or an Array-like Object. Received function model
+    at Function.from (buffer.js:313:9)
+    at ServerResponse.send (C:\Users\User\Desktop\FA4Project\Code-ToTrainee\wanderlust-web-service\node_modules\express\lib\response.js:189:22)
+    at C:\Users\User\Desktop\FA4Project\Code-ToTrainee\wanderlust-web-service\src\routes\userRouter.js:9:13
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: No destination Found
+    at C:\Users\User\Desktop\FA4Project\Code-ToTrainee\wanderlust-web-service\src\service\destinations.js:43:19
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: No destination Found
+    at C:\Users\User\Desktop\FA4Project\Code-ToTrainee\wanderlust-web-service\src\service\destinations.js:43:19
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: No destination Found
+    at C:\Users\User\Desktop\FA4Project\Code-ToTrainee\wanderlust-web-service\src\service\destinations.js:43:19
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: No destination Found
+    at C:\Users\User\Desktop\FA4Project\Code-ToTrainee\wanderlust-web-service\src\service\destinations.js:23:19
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: No destination Found
+    at C:\Users\User\Desktop\FA4Project\Code-ToTrainee\wanderlust-web-service\src\service\destinations.js:23:19
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: No destination Found
+    at C:\Users\User\Desktop\FA4Project\Code-ToTrainee\wanderlust-web-service\src\service\destinations.js:23:19
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: No destination Found
+    at C:\Users\User\Desktop\FA4Project\Code-ToTrainee\wanderlust-web-service\src\service\destinations.js:43:19
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+BulkWriteError: E11000 duplicate key error collection: Wanderlust_DB.User index: bookings.bookingId_1 dup key: { bookings.bookingId: null }
+    at OrderedBulkOperation.handleWriteError (C:\Users\User\Desktop\FA4Project\Code-ToTrainee\wanderlust-web-service\node_modules\mongodb\lib\bulk\common.js:1210:11)
+    at resultHandler (C:\Users\User\Desktop\FA4Project\Code-ToTrainee\wanderlust-web-service\node_modules\mongodb\lib\bulk\common.js:519:23)
+    at C:\Users\User\Desktop\FA4Project\Code-ToTrainee\wanderlust-web-service\node_modules\mongodb\lib\core\connection\pool.js:404:18
+    at processTicksAndRejections (internal/process/task_queues.js:79:11)
+BulkWriteError: E11000 duplicate key error collection: Wanderlust_DB.User index: bookings.bookingId_1 dup key: { bookings.bookingId: null }
+    at OrderedBulkOperation.handleWriteError (C:\Users\User\Desktop\FA4Project\Code-ToTrainee\wanderlust-web-service\node_modules\mongodb\lib\bulk\common.js:1210:11)
+    at resultHandler (C:\Users\User\Desktop\FA4Project\Code-ToTrainee\wanderlust-web-service\node_modules\mongodb\lib\bulk\common.js:519:23)
+    at C:\Users\User\Desktop\FA4Project\Code-ToTrainee\wanderlust-web-service\node_modules\mongodb\lib\core\connection\pool.js:404:18
+    at processTicksAndRejections (internal/process/task_queues.js:79:11)
+Error: No bookings Found
+    at C:\Users\User\Desktop\FA4Project\Code-ToTrainee\wanderlust-web-service\src\service\userslogin.js:63:20
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: No bookings Found
+    at C:\Users\User\Desktop\FA4Project\Code-ToTrainee\wanderlust-web-service\src\service\userslogin.js:63:20
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: No bookings Found
+    at C:\Users\User\Desktop\FA4Project\Code-ToTrainee\wanderlust-web-service\src\service\userslogin.js:63:20
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: No bookings Found
+    at C:\Users\User\Desktop\FA4Project\Code-ToTrainee\wanderlust-web-service\src\service\userslogin.js:63:20
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: No destination Found
+    at C:\Users\User\Desktop\FA4Project\Code-ToTrainee\wanderlust-web-service\src\service\destinations.js:43:19
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: No destination Found
+    at C:\Users\User\Desktop\FA4Project\Code-ToTrainee\wanderlust-web-service\src\service\destinations.js:23:19
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: No destination Found
+    at C:\Users\User\Desktop\FA4Project\Code-ToTrainee\wanderlust-web-service\src\service\destinations.js:23:19
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: booking can't cancele
+    at C:\Users\User\Desktop\FA4Project\Code-ToTrainee\wanderlust-web-service\src\service\BookingControle.js:67:22
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: booking can't cancele
+    at C:\Users\User\Desktop\FA4Project\Code-ToTrainee\wanderlust-web-service\src\service\BookingControle.js:67:22
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: booking can't cancele
+    at C:\Users\User\Desktop\FA4Project\Code-ToTrainee\wanderlust-web-service\src\service\BookingControle.js:61:27
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: booking not found
+    at C:\Users\User\Desktop\FA4Project\Code-ToTrainee\wanderlust-web-service\src\service\BookingControle.js:57:39
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: booking not found
+    at C:\Users\User\Desktop\FA4Project\Code-ToTrainee\wanderlust-web-service\src\service\BookingControle.js:58:39
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: booking not found
+    at C:\Users\User\Desktop\FA4Project\Code-ToTrainee\wanderlust-web-service\src\service\BookingControle.js:59:39
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: booking can't cancele
+    at C:\Users\User\Desktop\FA4Project\Code-ToTrainee\wanderlust-web-service\src\service\BookingControle.js:73:22
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: booking not found
+    at C:\Users\User\Desktop\FA4Project\Code-ToTrainee\wanderlust-web-service\src\service\BookingControle.js:61:39
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: booking not found
+    at C:\Users\User\Desktop\FA4Project\Code-ToTrainee\wanderlust-web-service\src\service\BookingControle.js:61:39
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: booking not found
+    at C:\Users\User\Desktop\FA4Project\Code-ToTrainee\wanderlust-web-service\src\service\BookingControle.js:62:39
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: booking not found
+    at C:\Users\User\Desktop\FA4Project\Code-ToTrainee\wanderlust-web-service\src\service\BookingControle.js:62:39
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: booking can't cancele
+    at C:\Users\User\Desktop\FA4Project\Code-ToTrainee\wanderlust-web-service\src\service\BookingControle.js:74:22
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: booking not found
+    at C:\Users\User\Desktop\FA4Project\Code-ToTrainee\wanderlust-web-service\src\service\BookingControle.js:62:39
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: booking not found
+    at C:\Users\User\Desktop\FA4Project\Code-ToTrainee\wanderlust-web-service\src\service\BookingControle.js:62:39
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: booking not found
+    at C:\Users\User\Desktop\FA4Project\Code-ToTrainee\wanderlust-web-service\src\service\BookingControle.js:62:39
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+TypeError: Cannot read property 'nModified' of null
+    at C:\Users\User\Desktop\FA4Project\Code-ToTrainee\wanderlust-web-service\src\service\BookingControle.js:55:38
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: booking can't cancele
+    at C:\Users\User\Desktop\FA4Project\Code-ToTrainee\wanderlust-web-service\src\service\BookingControle.js:72:22
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: booking not available with this userID:U1001
+    at C:\Users\User\Desktop\FA4Project\Code-ToTrainee\wanderlust-web-service\src\service\BookingControle.js:81:22
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: booking not available with this userID:U1001
+    at C:\Users\User\Desktop\FA4Project\Code-ToTrainee\wanderlust-web-service\src\service\BookingControle.js:81:22
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+CastError: Cast to Number failed for value "NaN" at path "contactNo" for model "User"
+    at new CastError (C:\Users\User\Desktop\FA4Project\Code-ToTrainee\wanderlust-web-service\node_modules\mongoose\lib\error\cast.js:29:11)
+    at model.Query.exec (C:\Users\User\Desktop\FA4Project\Code-ToTrainee\wanderlust-web-service\node_modules\mongoose\lib\query.js:4341:21)
+    at model.Query.Query.then (C:\Users\User\Desktop\FA4Project\Code-ToTrainee\wanderlust-web-service\node_modules\mongoose\lib\query.js:4433:15)
+    at C:\Users\User\Desktop\FA4Project\Code-ToTrainee\wanderlust-web-service\src\model\userslogin.js:20:63
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: Enter registered contact number! If not registered, please register
+    at C:\Users\User\Desktop\FA4Project\Code-ToTrainee\wanderlust-web-service\src\service\userslogin.js:9:23
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: Enter registered contact number! If not registered, please register
+    at C:\Users\User\Desktop\FA4Project\Code-ToTrainee\wanderlust-web-service\src\service\userslogin.js:9:23
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: Enter registered contact number! If not registered, please register
+    at C:\Users\User\Desktop\FA4Project\Code-ToTrainee\wanderlust-web-service\src\service\userslogin.js:9:23
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: Incorrect password
+    at C:\Users\User\Desktop\FA4Project\Code-ToTrainee\wanderlust-web-service\src\service\userslogin.js:16:31
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: Incorrect password
+    at C:\Users\User\Desktop\FA4Project\Code-ToTrainee\wanderlust-web-service\src\service\userslogin.js:16:31
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: Incorrect password
+    at C:\Users\User\Desktop\FA4Project\Code-ToTrainee\wanderlust-web-service\src\service\userslogin.js:16:31
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: Incorrect password
+    at C:\Users\User\Desktop\FA4Project\Code-ToTrainee\wanderlust-web-service\src\service\userslogin.js:16:31
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: Incorrect password
+    at C:\Users\User\Desktop\FA4Project\Code-ToTrainee\wanderlust-web-service\src\service\userslogin.js:16:31
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: Incorrect password
+    at C:\Users\User\Desktop\FA4Project\Code-ToTrainee\wanderlust-web-service\src\service\userslogin.js:16:31
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: Incorrect password
+    at C:\Users\User\Desktop\FA4Project\Code-ToTrainee\wanderlust-web-service\src\service\userslogin.js:16:31
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: Enter registered contact number! If not registered, please register
+    at C:\Users\User\Desktop\FA4Project\Code-ToTrainee\wanderlust-web-service\src\service\userslogin.js:9:23
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: Enter registered contact number! If not registered, please register
+    at C:\Users\User\Desktop\FA4Project\Code-ToTrainee\wanderlust-web-service\src\service\userslogin.js:9:23
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: Enter registered contact number! If not registered, please register
+    at C:\Users\User\Desktop\FA4Project\Code-ToTrainee\wanderlust-web-service\src\service\userslogin.js:9:23
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: Incorrect password
+    at C:\Users\User\Desktop\FA4Project\Code-ToTrainee\wanderlust-web-service\src\service\userslogin.js:16:31
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: Incorrect password
+    at C:\Users\User\Desktop\FA4Project\Code-ToTrainee\wanderlust-web-service\src\service\userslogin.js:16:31
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: Enter registered contact number! If not registered, please register
+    at C:\Users\User\Desktop\FA4Project\Code-ToTrainee\wanderlust-web-service\src\service\userslogin.js:9:23
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: Incorrect password
+    at C:\Users\User\Desktop\FA4Project\Code-ToTrainee\wanderlust-web-service\src\service\userslogin.js:16:31
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: Enter registered contact number! If not registered, please register
+    at C:\Users\User\Desktop\FA4Project\Code-ToTrainee\wanderlust-web-service\src\service\userslogin.js:9:23
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: Incorrect password
+    at C:\Users\User\Desktop\FA4Project\Code-ToTrainee\wanderlust-web-service\src\service\userslogin.js:16:31
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: Incorrect password
+    at C:\Users\User\Desktop\FA4Project\Code-ToTrainee\wanderlust-web-service\src\service\userslogin.js:16:31
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: User with this EmailId already exist
+    at C:\Users\User\Desktop\FA4Project\Code-ToTrainee\wanderlust-web-service\src\service\userslogin.js:51:20
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: User with this EmailId already exist
+    at C:\Users\User\Desktop\FA4Project\Code-ToTrainee\wanderlust-web-service\src\service\userslogin.js:51:20
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: User with this phoneNo already exist
+    at C:\Users\User\Desktop\FA4Project\Code-ToTrainee\wanderlust-web-service\src\service\userslogin.js:45:27
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: User with this EmailId already exist
+    at C:\Users\User\Desktop\FA4Project\Code-ToTrainee\wanderlust-web-service\src\service\userslogin.js:51:20
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: User with this EmailId already exist
+    at C:\Users\User\Desktop\FA4Project\Code-ToTrainee\wanderlust-web-service\src\service\userslogin.js:51:20
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: User with this EmailId already exist
+    at C:\Users\User\Desktop\FA4Project\Code-ToTrainee\wanderlust-web-service\src\service\userslogin.js:51:20
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: User with this EmailId already exist
+    at C:\Users\User\Desktop\FA4Project\Code-ToTrainee\wanderlust-web-service\src\service\userslogin.js:51:20
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: User with this EmailId already exist
+    at C:\Users\User\Desktop\FA4Project\Code-ToTrainee\wanderlust-web-service\src\service\userslogin.js:51:20
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: User with this EmailId already exist
+    at C:\Users\User\Desktop\FA4Project\Code-ToTrainee\wanderlust-web-service\src\service\userslogin.js:51:20
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: User with this EmailId already exist
+    at C:\Users\User\Desktop\FA4Project\Code-ToTrainee\wanderlust-web-service\src\service\userslogin.js:51:20
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: User with this EmailId already exist
+    at C:\Users\User\Desktop\FA4Project\Code-ToTrainee\wanderlust-web-service\src\service\userslogin.js:51:20
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: User with this EmailId already exist
+    at C:\Users\User\Desktop\FA4Project\Code-ToTrainee\wanderlust-web-service\src\service\userslogin.js:51:20
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: User with this EmailId already exist
+    at C:\Users\User\Desktop\FA4Project\Code-ToTrainee\wanderlust-web-service\src\service\userslogin.js:51:20
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: User with this EmailId already exist
+    at C:\Users\User\Desktop\FA4Project\Code-ToTrainee\wanderlust-web-service\src\service\userslogin.js:51:20
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: User with this EmailId already exist
+    at C:\Users\User\Desktop\FA4Project\Code-ToTrainee\wanderlust-web-service\src\service\userslogin.js:51:20
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: User with this EmailId already exist
+    at C:\Users\User\Desktop\FA4Project\Code-ToTrainee\wanderlust-web-service\src\service\userslogin.js:51:20
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: User with this EmailId already exist
+    at C:\Users\User\Desktop\FA4Project\Code-ToTrainee\wanderlust-web-service\src\service\userslogin.js:51:20
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: User with this phoneNo already exist
+    at C:\Users\User\Desktop\FA4Project\Code-ToTrainee\wanderlust-web-service\src\service\userslogin.js:45:27
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: User with this phoneNo already exist
+    at C:\Users\User\Desktop\FA4Project\Code-ToTrainee\wanderlust-web-service\src\service\userslogin.js:45:27
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: User with this phoneNo already exist
+    at C:\Users\User\Desktop\FA4Project\Code-ToTrainee\wanderlust-web-service\src\service\userslogin.js:45:27
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: User with this phoneNo already exist
+    at C:\Users\User\Desktop\FA4Project\Code-ToTrainee\wanderlust-web-service\src\service\userslogin.js:45:27
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: User with this phoneNo already exist
+    at C:\Users\User\Desktop\FA4Project\Code-ToTrainee\wanderlust-web-service\src\service\userslogin.js:45:27
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: User with this phoneNo already exist
+    at C:\Users\User\Desktop\FA4Project\Code-ToTrainee\wanderlust-web-service\src\service\userslogin.js:45:27
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: User with this EmailId already exist
+    at C:\Users\User\Desktop\FA4Project\Code-ToTrainee\wanderlust-web-service\src\service\userslogin.js:51:20
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: User with this EmailId already exist
+    at C:\Users\User\Desktop\FA4Project\Code-ToTrainee\wanderlust-web-service\src\service\userslogin.js:51:20
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: User with this EmailId already exist
+    at C:\Users\User\Desktop\FA4Project\Code-ToTrainee\wanderlust-web-service\src\service\userslogin.js:51:20
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: User with this EmailId already exist
+    at C:\Users\User\Desktop\FA4Project\Code-ToTrainee\wanderlust-web-service\src\service\userslogin.js:51:20
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: User with this EmailId already exist
+    at C:\Users\User\Desktop\FA4Project\Code-ToTrainee\wanderlust-web-service\src\service\userslogin.js:51:20
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: No destination Found
+    at C:\Users\User\Desktop\FA4Project\Code-ToTrainee\wanderlust-web-service\src\service\destinations.js:43:19
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: No destination Found
+    at C:\Users\User\Desktop\FA4Project\Code-ToTrainee\wanderlust-web-service\src\service\destinations.js:43:19
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: No destination Found
+    at C:\Users\User\Desktop\FA4Project\Code-ToTrainee\wanderlust-web-service\src\service\destinations.js:43:19
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: No destination Found
+    at C:\Users\User\Desktop\FA4Project\Code-ToTrainee\wanderlust-web-service\src\service\destinations.js:43:19
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: No destination Found
+    at C:\Users\User\Desktop\FA4Project\Code-ToTrainee\wanderlust-web-service\src\service\destinations.js:43:19
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: No destination Found
+    at C:\Users\User\Desktop\FA4Project\Code-ToTrainee\wanderlust-web-service\src\service\destinations.js:43:19
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: No destination Found
+    at C:\Users\User\Desktop\FA4Project\Code-ToTrainee\wanderlust-web-service\src\service\destinations.js:43:19
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: No destination Found
+    at C:\Users\User\Desktop\FA4Project\Code-ToTrainee\wanderlust-web-service\src\service\destinations.js:43:19
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: No destination Found
+    at C:\Users\User\Desktop\FA4Project\Code-ToTrainee\wanderlust-web-service\src\service\destinations.js:43:19
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: No destination Found
+    at C:\Users\User\Desktop\FA4Project\Code-ToTrainee\wanderlust-web-service\src\service\destinations.js:43:19
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: No destination Found
+    at C:\Users\User\Desktop\FA4Project\Code-ToTrainee\wanderlust-web-service\src\service\destinations.js:43:19
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: No destination Found
+    at C:\Users\User\Desktop\FA4Project\Code-ToTrainee\wanderlust-web-service\src\service\destinations.js:43:19
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: No destination Found
+    at C:\Users\User\Desktop\FA4Project\Code-ToTrainee\wanderlust-web-service\src\service\destinations.js:43:19
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: No destination Found
+    at C:\Users\User\Desktop\FA4Project\Code-ToTrainee\wanderlust-web-service\src\service\destinations.js:43:19
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: No destination Found
+    at C:\Users\User\Desktop\FA4Project\Code-ToTrainee\wanderlust-web-service\src\service\destinations.js:43:19
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: No destination Found
+    at C:\Users\User\Desktop\FA4Project\Code-ToTrainee\wanderlust-web-service\src\service\destinations.js:43:19
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: No destination Found
+    at C:\Users\User\Desktop\FA4Project\Code-ToTrainee\wanderlust-web-service\src\service\destinations.js:43:19
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: No destination Found
+    at C:\Users\User\Desktop\FA4Project\Code-ToTrainee\wanderlust-web-service\src\service\destinations.js:43:19
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: No destination Found
+    at C:\Users\User\Desktop\FA4Project\Code-ToTrainee\wanderlust-web-service\src\service\destinations.js:43:19
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: No destination Found
+    at C:\Users\User\Desktop\FA4Project\Code-ToTrainee\wanderlust-web-service\src\service\destinations.js:43:19
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: No destination Found
+    at C:\Users\User\Desktop\FA4Project\Code-ToTrainee\wanderlust-web-service\src\service\destinations.js:43:19
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: No destination Found
+    at C:\Users\User\Desktop\FA4Project\Code-ToTrainee\wanderlust-web-service\src\service\destinations.js:43:19
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: No destination Found
+    at C:\Users\User\Desktop\FA4Project\Code-ToTrainee\wanderlust-web-service\src\service\destinations.js:43:19
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: No destination Found
+    at C:\Users\User\Desktop\FA4Project\Code-ToTrainee\wanderlust-web-service\src\service\destinations.js:43:19
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: No destination Found
+    at C:\Users\User\Desktop\FA4Project\Code-ToTrainee\wanderlust-web-service\src\service\destinations.js:43:19
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: No destination Found
+    at C:\Users\User\Desktop\FA4Project\Code-ToTrainee\wanderlust-web-service\src\service\destinations.js:43:19
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: No destination Found
+    at C:\Users\User\Desktop\FA4Project\Code-ToTrainee\wanderlust-web-service\src\service\destinations.js:43:19
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: No destination Found
+    at C:\Users\User\Desktop\FA4Project\Code-ToTrainee\wanderlust-web-service\src\service\destinations.js:43:19
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: No destination Found
+    at C:\Users\User\Desktop\FA4Project\Code-ToTrainee\wanderlust-web-service\src\service\destinations.js:43:19
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: No destination Found
+    at C:\Users\User\Desktop\FA4Project\Code-ToTrainee\wanderlust-web-service\src\service\destinations.js:43:19
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: No destination Found
+    at C:\Users\User\Desktop\FA4Project\Code-ToTrainee\wanderlust-web-service\src\service\destinations.js:43:19
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: No destination Found
+    at C:\Users\User\Desktop\FA4Project\Code-ToTrainee\wanderlust-web-service\src\service\destinations.js:43:19
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: No destination Found
+    at C:\Users\User\Desktop\FA4Project\Code-ToTrainee\wanderlust-web-service\src\service\destinations.js:43:19
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: No destination Found
+    at C:\Users\User\Desktop\FA4Project\Code-ToTrainee\wanderlust-web-service\src\service\destinations.js:43:19
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: No destination Found
+    at C:\Users\User\Desktop\FA4Project\Code-ToTrainee\wanderlust-web-service\src\service\destinations.js:43:19
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: No destination Found
+    at C:\Users\User\Desktop\FA4Project\Code-ToTrainee\wanderlust-web-service\src\service\destinations.js:43:19
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: No destination Found
+    at C:\Users\User\Desktop\FA4Project\Code-ToTrainee\wanderlust-web-service\src\service\destinations.js:43:19
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: No destination Found
+    at C:\Users\User\Desktop\FA4Project\Code-ToTrainee\wanderlust-web-service\src\service\destinations.js:43:19
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: No destination Found
+    at C:\Users\User\Desktop\FA4Project\Code-ToTrainee\wanderlust-web-service\src\service\destinations.js:43:19
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: No destination Found
+    at C:\Users\User\Desktop\FA4Project\Code-ToTrainee\wanderlust-web-service\src\service\destinations.js:43:19
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: No destination Found
+    at C:\Users\User\Desktop\FA4Project\Code-ToTrainee\wanderlust-web-service\src\service\destinations.js:45:19
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: No destination Found
+    at C:\Users\User\Desktop\FA4Project\Code-ToTrainee\wanderlust-web-service\src\service\destinations.js:45:19
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: No destination Found
+    at C:\Users\User\Desktop\FA4Project\Code-ToTrainee\wanderlust-web-service\src\service\destinations.js:45:19
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: No destination Found
+    at C:\Users\User\Desktop\FA4Project\Code-ToTrainee\wanderlust-web-service\src\service\destinations.js:45:19
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: No destination Found
+    at C:\Users\User\Desktop\FA4Project\Code-ToTrainee\wanderlust-web-service\src\service\destinations.js:45:19
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: No destination Found
+    at C:\Users\User\Desktop\FA4Project\Code-ToTrainee\wanderlust-web-service\src\service\destinations.js:45:19
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: No destination Found
+    at C:\Users\User\Desktop\FA4Project\Code-ToTrainee\wanderlust-web-service\src\service\destinations.js:45:19
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: No destination Found
+    at C:\Users\User\Desktop\FA4Project\Code-ToTrainee\wanderlust-web-service\src\service\destinations.js:45:19
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: No destination Found
+    at C:\Users\User\Desktop\FA4Project\Code-ToTrainee\wanderlust-web-service\src\service\destinations.js:45:19
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: No destination Found
+    at C:\Users\User\Desktop\FA4Project\Code-ToTrainee\wanderlust-web-service\src\service\destinations.js:45:19
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: No destination Found
+    at C:\Users\User\Desktop\FA4Project\Code-ToTrainee\wanderlust-web-service\src\service\destinations.js:45:19
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: No destination Found
+    at C:\Users\User\Desktop\FA4Project\Code-ToTrainee\wanderlust-web-service\src\service\destinations.js:45:19
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: No destination Found
+    at C:\Users\User\Desktop\FA4Project\Code-ToTrainee\wanderlust-web-service\src\service\destinations.js:45:19
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: No destination Found
+    at C:\Users\User\Desktop\FA4Project\Code-ToTrainee\wanderlust-web-service\src\service\destinations.js:45:19
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: No destination Found
+    at C:\Users\User\Desktop\FA4Project\Code-ToTrainee\wanderlust-web-service\src\service\destinations.js:45:19
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: No destination Found
+    at C:\Users\User\Desktop\FA4Project\Code-ToTrainee\wanderlust-web-service\src\service\destinations.js:45:19
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: No destination Found
+    at C:\Users\User\Desktop\FA4Project\Code-ToTrainee\wanderlust-web-service\src\service\destinations.js:45:19
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: No destination Found
+    at C:\Users\User\Desktop\FA4Project\Code-ToTrainee\wanderlust-web-service\src\service\destinations.js:45:19
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: No destination Found
+    at C:\Users\User\Desktop\FA4Project\Code-ToTrainee\wanderlust-web-service\src\service\destinations.js:45:19
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: Incorrect password
+    at C:\Users\User\Desktop\FA4Project\Code-ToTrainee\wanderlust-web-service\src\service\userslogin.js:16:31
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: Incorrect password
+    at C:\Users\User\Desktop\FA4Project\Code-ToTrainee\wanderlust-web-service\src\service\userslogin.js:16:31
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: No destination Found
+    at C:\Users\User\Desktop\FA4Project\Code-ToTrainee\wanderlust-web-service\src\service\destinations.js:45:19
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: No destination Found
+    at C:\Users\User\Desktop\FA4Project\Code-ToTrainee\wanderlust-web-service\src\service\destinations.js:45:19
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: User with this EmailId already exist
+    at C:\Users\User\Desktop\FA4Project\Code-ToTrainee\wanderlust-web-service\src\service\userslogin.js:51:20
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: User with this EmailId already exist
+    at C:\Users\User\Desktop\FA4Project\Code-ToTrainee\wanderlust-web-service\src\service\userslogin.js:51:20
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: Incorrect password
+    at C:\Users\User\Desktop\FA4Project\Code-ToTrainee\wanderlust-web-service\src\service\userslogin.js:16:31
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: No destination Found
+    at C:\Users\User\Desktop\FA4Project\Code-ToTrainee\wanderlust-web-service\src\service\destinations.js:45:19
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: No destination Found
+    at C:\Users\User\Desktop\FA4Project\Code-ToTrainee\wanderlust-web-service\src\service\destinations.js:45:19
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: No destination Found
+    at C:\Users\User\Desktop\FA4Project\Code-ToTrainee\wanderlust-web-service\src\service\destinations.js:45:19
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: No destination Found
+    at C:\Users\User\Desktop\FA4Project\Code-ToTrainee\wanderlust-web-service\src\service\destinations.js:45:19
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: No destination Found
+    at C:\Users\User\Desktop\FA4Project\Code-ToTrainee\wanderlust-web-service\src\service\destinations.js:45:19
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: No destination Found
+    at C:\Users\User\Desktop\FA4Project\Code-ToTrainee\wanderlust-web-service\src\service\destinations.js:45:19
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: No destination Found
+    at C:\Users\User\Desktop\FA4Project\Code-ToTrainee\wanderlust-web-service\src\service\destinations.js:45:19
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: No destination Found
+    at C:\Users\User\Desktop\FA4Project\Code-ToTrainee\wanderlust-web-service\src\service\destinations.js:45:19
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: No destination Found
+    at C:\Users\User\Desktop\FA4Project\Code-ToTrainee\wanderlust-web-service\src\service\destinations.js:45:19
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: No destination Found
+    at C:\Users\User\Desktop\FA4Project\Code-ToTrainee\wanderlust-web-service\src\service\destinations.js:45:19
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: Incorrect password
+    at C:\Users\User\Desktop\FA4Project\Code-ToTrainee\wanderlust-web-service\src\service\userslogin.js:16:31
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: No destination Found
+    at C:\Users\User\Desktop\FA4Project\Code-ToTrainee\wanderlust-web-service\src\service\destinations.js:45:19
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: No destination Found
+    at C:\Users\User\Desktop\FA4Project\Code-ToTrainee\wanderlust-web-service\src\service\destinations.js:37:27
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+CastError: Cast to string failed for value "{
+  details: {
+    itinerary: {
+      dayWiseDetails: [Object],
+      packageInclusions: [Array],
+      tourHighlights: [Array],
+      tourPace: [Array]
+    },
+    about: 'Watch the setting sun from the hilltops of Greece’s most famous islands.Experience ancient history and open-air museums in the capital of Athens. Then, the quintessential, beautiful Greek islands you’ve been dreaming of come to life on the isles of Mykonos and Santorini.'
+  },
+  _id: 5eb68862cb21351038837ea5,
+  destinationId: 'D1001',
+  continent: 'Europe',
+  imageUrl: '/assets/geece.jpg',
+  name: 'A Week in Greece: Athens, Mykonos & Santorini',
+  noOfNights: 7,
+  flightCharges: 500,
+  chargesPerPerson: 2499,
+  discount: 0,
+  availability: 30,
+  __v: 0
+}" at path "destinationId" for model "Destination"
+    at new CastError (C:\Users\User\Desktop\FA4Project\Code-ToTrainee\wanderlust-web-service\node_modules\mongoose\lib\error\cast.js:29:11)
+    at model.Query.exec (C:\Users\User\Desktop\FA4Project\Code-ToTrainee\wanderlust-web-service\node_modules\mongoose\lib\query.js:4341:21)
+    at model.Query.Query.then (C:\Users\User\Desktop\FA4Project\Code-ToTrainee\wanderlust-web-service\node_modules\mongoose\lib\query.js:4433:15)
+    at C:\Users\User\Desktop\FA4Project\Code-ToTrainee\wanderlust-web-service\src\model\destinations.js:19:75
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+CastError: Cast to string failed for value "{
+  details: {
+    itinerary: {
+      dayWiseDetails: [Object],
+      packageInclusions: [Array],
+      tourHighlights: [Array],
+      tourPace: [Array]
+    },
+    about: 'Watch the setting sun from the hilltops of Greece’s most famous islands.Experience ancient history and open-air museums in the capital of Athens. Then, the quintessential, beautiful Greek islands you’ve been dreaming of come to life on the isles of Mykonos and Santorini.'
+  },
+  _id: 5eb68862cb21351038837ea5,
+  destinationId: 'D1001',
+  continent: 'Europe',
+  imageUrl: '/assets/geece.jpg',
+  name: 'A Week in Greece: Athens, Mykonos & Santorini',
+  noOfNights: 7,
+  flightCharges: 500,
+  chargesPerPerson: 2499,
+  discount: 0,
+  availability: 30,
+  __v: 0
+}" at path "destinationId" for model "Destination"
+    at new CastError (C:\Users\User\Desktop\FA4Project\Code-ToTrainee\wanderlust-web-service\node_modules\mongoose\lib\error\cast.js:29:11)
+    at model.Query.exec (C:\Users\User\Desktop\FA4Project\Code-ToTrainee\wanderlust-web-service\node_modules\mongoose\lib\query.js:4341:21)
+    at model.Query.Query.then (C:\Users\User\Desktop\FA4Project\Code-ToTrainee\wanderlust-web-service\node_modules\mongoose\lib\query.js:4433:15)
+    at C:\Users\User\Desktop\FA4Project\Code-ToTrainee\wanderlust-web-service\src\model\destinations.js:19:75
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+CastError: Cast to string failed for value "{
+  details: {
+    itinerary: {
+      dayWiseDetails: [Object],
+      packageInclusions: [Array],
+      tourHighlights: [Array],
+      tourPace: [Array]
+    },
+    about: 'Watch the setting sun from the hilltops of Greece’s most famous islands.Experience ancient history and open-air museums in the capital of Athens. Then, the quintessential, beautiful Greek islands you’ve been dreaming of come to life on the isles of Mykonos and Santorini.'
+  },
+  _id: 5eb68862cb21351038837ea5,
+  destinationId: 'D1001',
+  continent: 'Europe',
+  imageUrl: '/assets/geece.jpg',
+  name: 'A Week in Greece: Athens, Mykonos & Santorini',
+  noOfNights: 7,
+  flightCharges: 500,
+  chargesPerPerson: 2499,
+  discount: 0,
+  availability: 30,
+  __v: 0
+}" at path "destinationId" for model "Destination"
+    at new CastError (C:\Users\User\Desktop\FA4Project\Code-ToTrainee\wanderlust-web-service\node_modules\mongoose\lib\error\cast.js:29:11)
+    at model.Query.exec (C:\Users\User\Desktop\FA4Project\Code-ToTrainee\wanderlust-web-service\node_modules\mongoose\lib\query.js:4341:21)
+    at model.Query.Query.then (C:\Users\User\Desktop\FA4Project\Code-ToTrainee\wanderlust-web-service\node_modules\mongoose\lib\query.js:4433:15)
+    at C:\Users\User\Desktop\FA4Project\Code-ToTrainee\wanderlust-web-service\src\model\destinations.js:19:75
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+CastError: Cast to string failed for value "{
+  details: {
+    itinerary: {
+      dayWiseDetails: [Object],
+      packageInclusions: [Array],
+      tourHighlights: [Array],
+      tourPace: [Array]
+    },
+    about: 'Watch the setting sun from the hilltops of Greece’s most famous islands.Experience ancient history and open-air museums in the capital of Athens. Then, the quintessential, beautiful Greek islands you’ve been dreaming of come to life on the isles of Mykonos and Santorini.'
+  },
+  _id: 5eb68862cb21351038837ea5,
+  destinationId: 'D1001',
+  continent: 'Europe',
+  imageUrl: '/assets/geece.jpg',
+  name: 'A Week in Greece: Athens, Mykonos & Santorini',
+  noOfNights: 7,
+  flightCharges: 500,
+  chargesPerPerson: 2499,
+  discount: 0,
+  availability: 30,
+  __v: 0
+}" at path "destinationId" for model "Destination"
+    at new CastError (C:\Users\User\Desktop\FA4Project\Code-ToTrainee\wanderlust-web-service\node_modules\mongoose\lib\error\cast.js:29:11)
+    at model.Query.exec (C:\Users\User\Desktop\FA4Project\Code-ToTrainee\wanderlust-web-service\node_modules\mongoose\lib\query.js:4341:21)
+    at model.Query.Query.then (C:\Users\User\Desktop\FA4Project\Code-ToTrainee\wanderlust-web-service\node_modules\mongoose\lib\query.js:4433:15)
+    at C:\Users\User\Desktop\FA4Project\Code-ToTrainee\wanderlust-web-service\src\model\destinations.js:19:75
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+CastError: Cast to string failed for value "{
+  details: {
+    itinerary: {
+      dayWiseDetails: [Object],
+      packageInclusions: [Array],
+      tourHighlights: [Array],
+      tourPace: [Array]
+    },
+    about: 'Watch the setting sun from the hilltops of Greece’s most famous islands.Experience ancient history and open-air museums in the capital of Athens. Then, the quintessential, beautiful Greek islands you’ve been dreaming of come to life on the isles of Mykonos and Santorini.'
+  },
+  _id: 5eb68862cb21351038837ea5,
+  destinationId: 'D1001',
+  continent: 'Europe',
+  imageUrl: '/assets/geece.jpg',
+  name: 'A Week in Greece: Athens, Mykonos & Santorini',
+  noOfNights: 7,
+  flightCharges: 500,
+  chargesPerPerson: 2499,
+  discount: 0,
+  availability: 30,
+  __v: 0
+}" at path "destinationId" for model "Destination"
+    at new CastError (C:\Users\User\Desktop\FA4Project\Code-ToTrainee\wanderlust-web-service\node_modules\mongoose\lib\error\cast.js:29:11)
+    at model.Query.exec (C:\Users\User\Desktop\FA4Project\Code-ToTrainee\wanderlust-web-service\node_modules\mongoose\lib\query.js:4341:21)
+    at model.Query.Query.then (C:\Users\User\Desktop\FA4Project\Code-ToTrainee\wanderlust-web-service\node_modules\mongoose\lib\query.js:4433:15)
+    at C:\Users\User\Desktop\FA4Project\Code-ToTrainee\wanderlust-web-service\src\model\destinations.js:19:75
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+CastError: Cast to string failed for value "{
+  details: {
+    itinerary: {
+      dayWiseDetails: [Object],
+      packageInclusions: [Array],
+      tourHighlights: [Array],
+      tourPace: [Array]
+    },
+    about: 'Watch the setting sun from the hilltops of Greece’s most famous islands.Experience ancient history and open-air museums in the capital of Athens. Then, the quintessential, beautiful Greek islands you’ve been dreaming of come to life on the isles of Mykonos and Santorini.'
+  },
+  _id: 5eb68862cb21351038837ea5,
+  destinationId: 'D1001',
+  continent: 'Europe',
+  imageUrl: '/assets/geece.jpg',
+  name: 'A Week in Greece: Athens, Mykonos & Santorini',
+  noOfNights: 7,
+  flightCharges: 500,
+  chargesPerPerson: 2499,
+  discount: 0,
+  availability: 30,
+  __v: 0
+}" at path "destinationId" for model "Destination"
+    at new CastError (C:\Users\User\Desktop\FA4Project\Code-ToTrainee\wanderlust-web-service\node_modules\mongoose\lib\error\cast.js:29:11)
+    at model.Query.exec (C:\Users\User\Desktop\FA4Project\Code-ToTrainee\wanderlust-web-service\node_modules\mongoose\lib\query.js:4341:21)
+    at model.Query.Query.then (C:\Users\User\Desktop\FA4Project\Code-ToTrainee\wanderlust-web-service\node_modules\mongoose\lib\query.js:4433:15)
+    at C:\Users\User\Desktop\FA4Project\Code-ToTrainee\wanderlust-web-service\src\model\destinations.js:19:75
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+CastError: Cast to string failed for value "{
+  details: {
+    itinerary: {
+      dayWiseDetails: [Object],
+      packageInclusions: [Array],
+      tourHighlights: [Array],
+      tourPace: [Array]
+    },
+    about: 'Watch the setting sun from the hilltops of Greece’s most famous islands.Experience ancient history and open-air museums in the capital of Athens. Then, the quintessential, beautiful Greek islands you’ve been dreaming of come to life on the isles of Mykonos and Santorini.'
+  },
+  _id: 5eb68862cb21351038837ea5,
+  destinationId: 'D1001',
+  continent: 'Europe',
+  imageUrl: '/assets/geece.jpg',
+  name: 'A Week in Greece: Athens, Mykonos & Santorini',
+  noOfNights: 7,
+  flightCharges: 500,
+  chargesPerPerson: 2499,
+  discount: 0,
+  availability: 30,
+  __v: 0
+}" at path "destinationId" for model "Destination"
+    at new CastError (C:\Users\User\Desktop\FA4Project\Code-ToTrainee\wanderlust-web-service\node_modules\mongoose\lib\error\cast.js:29:11)
+    at model.Query.exec (C:\Users\User\Desktop\FA4Project\Code-ToTrainee\wanderlust-web-service\node_modules\mongoose\lib\query.js:4341:21)
+    at model.Query.Query.then (C:\Users\User\Desktop\FA4Project\Code-ToTrainee\wanderlust-web-service\node_modules\mongoose\lib\query.js:4433:15)
+    at C:\Users\User\Desktop\FA4Project\Code-ToTrainee\wanderlust-web-service\src\model\destinations.js:19:75
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+CastError: Cast to string failed for value "{
+  details: {
+    itinerary: {
+      dayWiseDetails: [Object],
+      packageInclusions: [Array],
+      tourHighlights: [Array],
+      tourPace: [Array]
+    },
+    about: 'Watch the setting sun from the hilltops of Greece’s most famous islands.Experience ancient history and open-air museums in the capital of Athens. Then, the quintessential, beautiful Greek islands you’ve been dreaming of come to life on the isles of Mykonos and Santorini.'
+  },
+  _id: 5eb68862cb21351038837ea5,
+  destinationId: 'D1001',
+  continent: 'Europe',
+  imageUrl: '/assets/geece.jpg',
+  name: 'A Week in Greece: Athens, Mykonos & Santorini',
+  noOfNights: 7,
+  flightCharges: 500,
+  chargesPerPerson: 2499,
+  discount: 0,
+  availability: 30,
+  __v: 0
+}" at path "destinationId" for model "Destination"
+    at new CastError (C:\Users\User\Desktop\FA4Project\Code-ToTrainee\wanderlust-web-service\node_modules\mongoose\lib\error\cast.js:29:11)
+    at model.Query.exec (C:\Users\User\Desktop\FA4Project\Code-ToTrainee\wanderlust-web-service\node_modules\mongoose\lib\query.js:4341:21)
+    at model.Query.Query.then (C:\Users\User\Desktop\FA4Project\Code-ToTrainee\wanderlust-web-service\node_modules\mongoose\lib\query.js:4433:15)
+    at C:\Users\User\Desktop\FA4Project\Code-ToTrainee\wanderlust-web-service\src\model\destinations.js:19:75
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: No destination Found
+    at C:\Users\User\Desktop\FA4Project\Code-ToTrainee\wanderlust-web-service\src\service\destinations.js:37:27
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+CastError: Cast to string failed for value "{
+  details: {
+    itinerary: {
+      dayWiseDetails: [Object],
+      packageInclusions: [Array],
+      tourHighlights: [Array],
+      tourPace: [Array]
+    },
+    about: 'Watch the setting sun from the hilltops of Greece’s most famous islands.Experience ancient history and open-air museums in the capital of Athens. Then, the quintessential, beautiful Greek islands you’ve been dreaming of come to life on the isles of Mykonos and Santorini.'
+  },
+  _id: 5eb68862cb21351038837ea5,
+  destinationId: 'D1001',
+  continent: 'Europe',
+  imageUrl: '/assets/geece.jpg',
+  name: 'A Week in Greece: Athens, Mykonos & Santorini',
+  noOfNights: 7,
+  flightCharges: 500,
+  chargesPerPerson: 2499,
+  discount: 0,
+  availability: 30,
+  __v: 0
+}" at path "destinationId" for model "Destination"
+    at new CastError (C:\Users\User\Desktop\FA4Project\Code-ToTrainee\wanderlust-web-service\node_modules\mongoose\lib\error\cast.js:29:11)
+    at model.Query.exec (C:\Users\User\Desktop\FA4Project\Code-ToTrainee\wanderlust-web-service\node_modules\mongoose\lib\query.js:4341:21)
+    at model.Query.Query.then (C:\Users\User\Desktop\FA4Project\Code-ToTrainee\wanderlust-web-service\node_modules\mongoose\lib\query.js:4433:15)
+    at C:\Users\User\Desktop\FA4Project\Code-ToTrainee\wanderlust-web-service\src\model\destinations.js:19:75
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+CastError: Cast to string failed for value "{
+  details: {
+    itinerary: {
+      dayWiseDetails: [Object],
+      packageInclusions: [Array],
+      tourHighlights: [Array],
+      tourPace: [Array]
+    },
+    about: 'Watch the setting sun from the hilltops of Greece’s most famous islands.Experience ancient history and open-air museums in the capital of Athens. Then, the quintessential, beautiful Greek islands you’ve been dreaming of come to life on the isles of Mykonos and Santorini.'
+  },
+  _id: 5eb68862cb21351038837ea5,
+  destinationId: 'D1001',
+  continent: 'Europe',
+  imageUrl: '/assets/geece.jpg',
+  name: 'A Week in Greece: Athens, Mykonos & Santorini',
+  noOfNights: 7,
+  flightCharges: 500,
+  chargesPerPerson: 2499,
+  discount: 0,
+  availability: 30,
+  __v: 0
+}" at path "destinationId" for model "Destination"
+    at new CastError (C:\Users\User\Desktop\FA4Project\Code-ToTrainee\wanderlust-web-service\node_modules\mongoose\lib\error\cast.js:29:11)
+    at model.Query.exec (C:\Users\User\Desktop\FA4Project\Code-ToTrainee\wanderlust-web-service\node_modules\mongoose\lib\query.js:4341:21)
+    at model.Query.Query.then (C:\Users\User\Desktop\FA4Project\Code-ToTrainee\wanderlust-web-service\node_modules\mongoose\lib\query.js:4433:15)
+    at C:\Users\User\Desktop\FA4Project\Code-ToTrainee\wanderlust-web-service\src\model\destinations.js:19:75
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: Incorrect password
+    at C:\Users\User\Desktop\FA4Project\Code-ToTrainee\wanderlust-web-service\src\service\userslogin.js:16:31
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: Incorrect password
+    at C:\Users\User\Desktop\FA4Project\Code-ToTrainee\wanderlust-web-service\src\service\userslogin.js:16:31
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: Incorrect password
+    at C:\Users\User\Desktop\FA4Project\Code-ToTrainee\wanderlust-web-service\src\service\userslogin.js:16:31
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: Enter registered contact number! If not registered, please register
+    at C:\Users\User\Desktop\FA4Project\Code-ToTrainee\wanderlust-web-service\src\service\userslogin.js:9:23
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: User with this phoneNo already exist
+    at C:\Users\User\Desktop\FA4Project\Code-ToTrainee\wanderlust-web-service\src\service\userslogin.js:45:27
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: User with this EmailId already exist
+    at C:\Users\User\Desktop\FA4Project\Code-ToTrainee\wanderlust-web-service\src\service\userslogin.js:51:20
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: Enter registered contact number! If not registered, please register
+    at C:\Users\User\Desktop\FA4Project\Code-ToTrainee\wanderlust-web-service\src\service\userslogin.js:9:23
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: Incorrect password
+    at C:\Users\User\Desktop\FA4Project\Code-ToTrainee\wanderlust-web-service\src\service\userslogin.js:16:31
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: User with this EmailId already exist
+    at C:\Users\User\Desktop\FA4Project\Code-ToTrainee\wanderlust-web-service\src\service\userslogin.js:51:20
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: User with this EmailId already exist
+    at C:\Users\User\Desktop\FA4Project\Code-ToTrainee\wanderlust-web-service\src\service\userslogin.js:51:20
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: Incorrect password
+    at C:\Users\User\Desktop\FA4Project\Code-ToTrainee\wanderlust-web-service\src\service\userslogin.js:16:31
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: Incorrect password
+    at C:\Users\User\Desktop\FA4Project\Code-ToTrainee\wanderlust-web-service\src\service\userslogin.js:16:31
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: User with this EmailId already exist
+    at C:\Users\User\Desktop\FA4Project\Code-ToTrainee\wanderlust-web-service\src\service\userslogin.js:51:20
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
